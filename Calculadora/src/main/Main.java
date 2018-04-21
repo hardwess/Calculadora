@@ -1,12 +1,12 @@
 package main;
 
-import controller.Control;
+import boundary.Boundary;
 
 public class Main {
 
 	public static void main(String[] args) {
 
-		new Control();
+		new Boundary();
 		
 	}
 
